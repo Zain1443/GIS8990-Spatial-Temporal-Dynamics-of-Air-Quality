@@ -1,0 +1,325 @@
+Progress Logs
+-------------
+Number of Sensors: 75
+Number of Read Keys: 1
+Start Timestamp: 2022-12-05
+End Timestamp: 2022-12-12
+Average: 360
+Fields: pm2.5_atm,temperature,humidity
+-------------
+Starting requests for sensor 108274.
+Making request 1.
+Data download completed for sensor 108274.
+
+Starting requests for sensor 162145.
+Making request 2.
+Data download completed for sensor 162145.
+
+Starting requests for sensor 147749.
+Making request 3.
+Data download completed for sensor 147749.
+
+Starting requests for sensor 171919.
+Making request 4.
+Error Code: 500
+Error: undefined
+Description: undefined
+Data download completed for sensor 171919.
+
+Starting requests for sensor 108366.
+Making request 5.
+Data download completed for sensor 108366.
+
+Starting requests for sensor 108364.
+Making request 6.
+Data download completed for sensor 108364.
+
+Starting requests for sensor 5582.
+Making request 7.
+Data download completed for sensor 5582.
+
+Starting requests for sensor 43305.
+Making request 8.
+Data download completed for sensor 43305.
+
+Starting requests for sensor 142750.
+Making request 9.
+Data download completed for sensor 142750.
+
+Starting requests for sensor 11134.
+Making request 10.
+Data download completed for sensor 11134.
+
+Starting requests for sensor 157935.
+Making request 11.
+Data download completed for sensor 157935.
+
+Starting requests for sensor 142774.
+Making request 12.
+Data download completed for sensor 142774.
+
+Starting requests for sensor 145250.
+Making request 13.
+Data download completed for sensor 145250.
+
+Starting requests for sensor 143246.
+Making request 14.
+Data download completed for sensor 143246.
+
+Starting requests for sensor 157837.
+Making request 15.
+Data download completed for sensor 157837.
+
+Starting requests for sensor 142852.
+Making request 16.
+Error Code: 404
+Error: NotFoundError
+Description: Cannot find a sensor with the provided parameters.
+Error Meaning: This error means that either the sensor index or sensor read key for this device is incorrect. Double-check them and try the request for this sensor again.
+Due to this error, sensor 142852 is being skipped...
+
+Starting requests for sensor 145616.
+Making request 17.
+Data download completed for sensor 145616.
+
+Starting requests for sensor 142730.
+Making request 18.
+Data download completed for sensor 142730.
+
+Starting requests for sensor 142718.
+Making request 19.
+Data download completed for sensor 142718.
+
+Starting requests for sensor 142744.
+Making request 20.
+Data download completed for sensor 142744.
+
+Starting requests for sensor 142752.
+Making request 21.
+Data download completed for sensor 142752.
+
+Starting requests for sensor 143636.
+Making request 22.
+Data download completed for sensor 143636.
+
+Starting requests for sensor 145610.
+Making request 23.
+Data download completed for sensor 145610.
+
+Starting requests for sensor 142726.
+Making request 24.
+Data download completed for sensor 142726.
+
+Starting requests for sensor 143648.
+Making request 25.
+Data download completed for sensor 143648.
+
+Starting requests for sensor 157787.
+Making request 26.
+Data download completed for sensor 157787.
+
+Starting requests for sensor 143238.
+Making request 27.
+Data download completed for sensor 143238.
+
+Starting requests for sensor 143222.
+Making request 28.
+Data download completed for sensor 143222.
+
+Starting requests for sensor 171059.
+Making request 29.
+Data download completed for sensor 171059.
+
+Starting requests for sensor 174855.
+Making request 30.
+Data download completed for sensor 174855.
+
+Starting requests for sensor 145242.
+Making request 31.
+Data download completed for sensor 145242.
+
+Starting requests for sensor 142756.
+Making request 32.
+Data download completed for sensor 142756.
+
+Starting requests for sensor 54907.
+Making request 33.
+Data download completed for sensor 54907.
+
+Starting requests for sensor 143666.
+Making request 34.
+Data download completed for sensor 143666.
+
+Starting requests for sensor 143224.
+Making request 35.
+Data download completed for sensor 143224.
+
+Starting requests for sensor 145202.
+Making request 36.
+Data download completed for sensor 145202.
+
+Starting requests for sensor 157747.
+Making request 37.
+Data download completed for sensor 157747.
+
+Starting requests for sensor 145204.
+Making request 38.
+Data download completed for sensor 145204.
+
+Starting requests for sensor 143242.
+Making request 39.
+Data download completed for sensor 143242.
+
+Starting requests for sensor 157877.
+Making request 40.
+Data download completed for sensor 157877.
+
+Starting requests for sensor 143214.
+Making request 41.
+Data download completed for sensor 143214.
+
+Starting requests for sensor 145470.
+Making request 42.
+Data download completed for sensor 145470.
+
+Starting requests for sensor 46215.
+Making request 43.
+Data download completed for sensor 46215.
+
+Starting requests for sensor 143226.
+Making request 44.
+Data download completed for sensor 143226.
+
+Starting requests for sensor 142732.
+Making request 45.
+Data download completed for sensor 142732.
+
+Starting requests for sensor 145234.
+Making request 46.
+Error Code: 404
+Error: NotFoundError
+Description: Cannot find a sensor with the provided parameters.
+Error Meaning: This error means that either the sensor index or sensor read key for this device is incorrect. Double-check them and try the request for this sensor again.
+Due to this error, sensor 145234 is being skipped...
+
+Starting requests for sensor 157845.
+Making request 47.
+Data download completed for sensor 157845.
+
+Starting requests for sensor 157871.
+Making request 48.
+Data download completed for sensor 157871.
+
+Starting requests for sensor 157861.
+Making request 49.
+Data download completed for sensor 157861.
+
+Starting requests for sensor 113486.
+Making request 50.
+Data download completed for sensor 113486.
+
+Starting requests for sensor 3088.
+Making request 51.
+Data download completed for sensor 3088.
+
+Starting requests for sensor 145454.
+Making request 52.
+Data download completed for sensor 145454.
+
+Starting requests for sensor 156605.
+Making request 53.
+Data download completed for sensor 156605.
+
+Starting requests for sensor 174451.
+Making request 54.
+Data download completed for sensor 174451.
+
+Starting requests for sensor 157757.
+Making request 55.
+Data download completed for sensor 157757.
+
+Starting requests for sensor 142720.
+Making request 56.
+Data download completed for sensor 142720.
+
+Starting requests for sensor 143916.
+Making request 57.
+Data download completed for sensor 143916.
+
+Starting requests for sensor 142728.
+Making request 58.
+Data download completed for sensor 142728.
+
+Starting requests for sensor 116413.
+Making request 59.
+Data download completed for sensor 116413.
+
+Starting requests for sensor 142748.
+Making request 60.
+Data download completed for sensor 142748.
+
+Starting requests for sensor 21179.
+Making request 61.
+Data download completed for sensor 21179.
+
+Starting requests for sensor 142736.
+Making request 62.
+Data download completed for sensor 142736.
+
+Starting requests for sensor 143216.
+Making request 63.
+Data download completed for sensor 143216.
+
+Starting requests for sensor 17189.
+Making request 64.
+Data download completed for sensor 17189.
+
+Starting requests for sensor 98259.
+Making request 65.
+Data download completed for sensor 98259.
+
+Starting requests for sensor 107082.
+Making request 66.
+Data download completed for sensor 107082.
+
+Starting requests for sensor 128195.
+Making request 67.
+Data download completed for sensor 128195.
+
+Starting requests for sensor 85113.
+Making request 68.
+Data download completed for sensor 85113.
+
+Starting requests for sensor 107096.
+Making request 69.
+Data download completed for sensor 107096.
+
+Starting requests for sensor 77405.
+Making request 70.
+Data download completed for sensor 77405.
+
+Starting requests for sensor 126487.
+Making request 71.
+Data download completed for sensor 126487.
+
+Starting requests for sensor 23989.
+Making request 72.
+Data download completed for sensor 23989.
+
+Starting requests for sensor 75827.
+Making request 73.
+Data download completed for sensor 75827.
+
+Starting requests for sensor 162845.
+Making request 74.
+Data download completed for sensor 162845.
+
+Starting requests for sensor 104760..
+Making request 75.
+Error Code: 400
+Error: InvalidParameterValueError
+Description: The value provided for parameter 'sensor_index' was not valid.
+Error Meaning: This error means that a value entered in the 'Sensor Indexes' or 'Sensor Read Keys' field was not valid. Double-check these inputs and try again for this sensor.
+Due to this error, sensor 104760. is being skipped...
+
+Download request has been completed.

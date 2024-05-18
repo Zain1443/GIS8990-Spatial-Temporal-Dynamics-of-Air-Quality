@@ -1,0 +1,318 @@
+Progress Logs
+-------------
+Number of Sensors: 77
+Number of Read Keys: 1
+Start Timestamp: 2022-07-04
+End Timestamp: 2022-07-11
+Average: 360
+Fields: pm2.5_atm
+-------------
+Starting requests for sensor 3088.
+Making request 1.
+Data download completed for sensor 3088.
+
+Starting requests for sensor 5582.
+Making request 2.
+Data download completed for sensor 5582.
+
+Starting requests for sensor 11134.
+Making request 3.
+Data download completed for sensor 11134.
+
+Starting requests for sensor 21179.
+Making request 4.
+Data download completed for sensor 21179.
+
+Starting requests for sensor 43305.
+Making request 5.
+Data download completed for sensor 43305.
+
+Starting requests for sensor 54907.
+Making request 6.
+Data download completed for sensor 54907.
+
+Starting requests for sensor 61239.
+Making request 7.
+Data download completed for sensor 61239.
+
+Starting requests for sensor 77405.
+Making request 8.
+Data download completed for sensor 77405.
+
+Starting requests for sensor 85113.
+Making request 9.
+Data download completed for sensor 85113.
+
+Starting requests for sensor 99807.
+Making request 10.
+Data download completed for sensor 99807.
+
+Starting requests for sensor 101525.
+Making request 11.
+Data download completed for sensor 101525.
+
+Starting requests for sensor 108364.
+Making request 12.
+Data download completed for sensor 108364.
+
+Starting requests for sensor 110979.
+Making request 13.
+Data download completed for sensor 110979.
+
+Starting requests for sensor 113486.
+Making request 14.
+Data download completed for sensor 113486.
+
+Starting requests for sensor 128195.
+Making request 15.
+Data download completed for sensor 128195.
+
+Starting requests for sensor 142718.
+Making request 16.
+Data download completed for sensor 142718.
+
+Starting requests for sensor 142720.
+Making request 17.
+Data download completed for sensor 142720.
+
+Starting requests for sensor 142726.
+Making request 18.
+Data download completed for sensor 142726.
+
+Starting requests for sensor 142724.
+Making request 19.
+Data download completed for sensor 142724.
+
+Starting requests for sensor 142734.
+Making request 20.
+Data download completed for sensor 142734.
+
+Starting requests for sensor 142732.
+Making request 21.
+Data download completed for sensor 142732.
+
+Starting requests for sensor 142736.
+Making request 22.
+Data download completed for sensor 142736.
+
+Starting requests for sensor 142742.
+Making request 23.
+Data download completed for sensor 142742.
+
+Starting requests for sensor 142744.
+Making request 24.
+Data download completed for sensor 142744.
+
+Starting requests for sensor 142750.
+Making request 25.
+Data download completed for sensor 142750.
+
+Starting requests for sensor 142748.
+Making request 26.
+Data download completed for sensor 142748.
+
+Starting requests for sensor 142774.
+Making request 27.
+Data download completed for sensor 142774.
+
+Starting requests for sensor 142928.
+Making request 28.
+Data download completed for sensor 142928.
+
+Starting requests for sensor 142932.
+Making request 29.
+Data download completed for sensor 142932.
+
+Starting requests for sensor 143214.
+Making request 30.
+Data download completed for sensor 143214.
+
+Starting requests for sensor 143216.
+Making request 31.
+Data download completed for sensor 143216.
+
+Starting requests for sensor 143226.
+Making request 32.
+Data download completed for sensor 143226.
+
+Starting requests for sensor 143224.
+Making request 33.
+Data download completed for sensor 143224.
+
+Starting requests for sensor 143242.
+Making request 34.
+Data download completed for sensor 143242.
+
+Starting requests for sensor 143240.
+Making request 35.
+Data download completed for sensor 143240.
+
+Starting requests for sensor 143246.
+Making request 36.
+Data download completed for sensor 143246.
+
+Starting requests for sensor 143248.
+Making request 37.
+Data download completed for sensor 143248.
+
+Starting requests for sensor 143284.
+Making request 38.
+Data download completed for sensor 143284.
+
+Starting requests for sensor 143634.
+Making request 39.
+Data download completed for sensor 143634.
+
+Starting requests for sensor 143636.
+Making request 40.
+Data download completed for sensor 143636.
+
+Starting requests for sensor 143648.
+Making request 41.
+Data download completed for sensor 143648.
+
+Starting requests for sensor 143656.
+Making request 42.
+Data download completed for sensor 143656.
+
+Starting requests for sensor 143660.
+Making request 43.
+Data download completed for sensor 143660.
+
+Starting requests for sensor 143666.
+Making request 44.
+Data download completed for sensor 143666.
+
+Starting requests for sensor 143668.
+Making request 45.
+Data download completed for sensor 143668.
+
+Starting requests for sensor 143916.
+Making request 46.
+Data download completed for sensor 143916.
+
+Starting requests for sensor 143942.
+Making request 47.
+Data download completed for sensor 143942.
+
+Starting requests for sensor 145202.
+Making request 48.
+Data download completed for sensor 145202.
+
+Starting requests for sensor 145204.
+Making request 49.
+Data download completed for sensor 145204.
+
+Starting requests for sensor 145242.
+Making request 50.
+Data download completed for sensor 145242.
+
+Starting requests for sensor 145250.
+Making request 51.
+Data download completed for sensor 145250.
+
+Starting requests for sensor 145262.
+Making request 52.
+Data download completed for sensor 145262.
+
+Starting requests for sensor 145454.
+Making request 53.
+Data download completed for sensor 145454.
+
+Starting requests for sensor 145470.
+Making request 54.
+Data download completed for sensor 145470.
+
+Starting requests for sensor 145498.
+Making request 55.
+Data download completed for sensor 145498.
+
+Starting requests for sensor 145506.
+Making request 56.
+Data download completed for sensor 145506.
+
+Starting requests for sensor 145604.
+Making request 57.
+Data download completed for sensor 145604.
+
+Starting requests for sensor 157845.
+Making request 58.
+Data download completed for sensor 157845.
+
+Starting requests for sensor 157861.
+Making request 59.
+Data download completed for sensor 157861.
+
+Starting requests for sensor 157871.
+Making request 60.
+Data download completed for sensor 157871.
+
+Starting requests for sensor 157877.
+Making request 61.
+Data download completed for sensor 157877.
+
+Starting requests for sensor 157935.
+Making request 62.
+Data download completed for sensor 157935.
+
+Starting requests for sensor 161401.
+Making request 63.
+Data download completed for sensor 161401.
+
+Starting requests for sensor 166459.
+Making request 64.
+Data download completed for sensor 166459.
+
+Starting requests for sensor 168327.
+Making request 65.
+Data download completed for sensor 168327.
+
+Starting requests for sensor 174451.
+Making request 66.
+Data download completed for sensor 174451.
+
+Starting requests for sensor 174855.
+Making request 67.
+Data download completed for sensor 174855.
+
+Starting requests for sensor 176569.
+Making request 68.
+Data download completed for sensor 176569.
+
+Starting requests for sensor 182801.
+Making request 69.
+Data download completed for sensor 182801.
+
+Starting requests for sensor 183325.
+Making request 70.
+Data download completed for sensor 183325.
+
+Starting requests for sensor 186901.
+Making request 71.
+Data download completed for sensor 186901.
+
+Starting requests for sensor 188539.
+Making request 72.
+Data download completed for sensor 188539.
+
+Starting requests for sensor 193171.
+Making request 73.
+Data download completed for sensor 193171.
+
+Starting requests for sensor 193207.
+Making request 74.
+Data download completed for sensor 193207.
+
+Starting requests for sensor 194635.
+Making request 75.
+Data download completed for sensor 194635.
+
+Starting requests for sensor 196233.
+Making request 76.
+Data download completed for sensor 196233.
+
+Starting requests for sensor 198941.
+Making request 77.
+Data download completed for sensor 198941.
+
+Download request has been completed.
